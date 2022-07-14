@@ -1,0 +1,8 @@
+﻿  game.cpp
+D:\Projects\game\game.cpp(33,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Projects\game\game.cpp(345,16): warning C4566: символ, представленный универсальным именем символа "\u263A", невозможно представить в текущей кодовой странице (1251)
+  Создание кода
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 213 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  game.vcxproj -> D:\Projects\game\x64\Release\game.exe
